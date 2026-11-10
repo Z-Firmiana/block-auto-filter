@@ -1,8 +1,8 @@
 ! Title: fake filters - Badware risks
 ! Description: Auto generated from deepformat.top/yh/fake.txt
-! Version: 1.0.0.1794261616
+! Version: 1.0.0.1794291601
 ! Homepage: https://github.com/Z-Firmiana/block-auto-filter
-! Last modified: 2026-11-09T22:00:16.009965Z
+! Last modified: 2026-11-10T06:20:01.102422Z
 ! Compiled by GitHub Actions
 !
 ||01kqg-aw2.baijia.cfd^
